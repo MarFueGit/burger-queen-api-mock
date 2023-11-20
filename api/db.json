@@ -197,7 +197,7 @@
       "id": 20,
       "name": "Jugo de frutas natural",
       "price": 7,
-      "image": "https://github.com/MarFueGit/burger-queen-api-mock/blob/main/resources/images/jugospng.png",
+      "image": "https://github.com/MarFueGit/burger-queen-api-mock/blob/main/resources/images/jugospng.png?raw=true",
       "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     }
