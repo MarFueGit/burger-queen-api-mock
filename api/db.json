@@ -9,10 +9,10 @@
           "qty": 1,
           "product": {
             "id": 9,
-            "name": "Ham and cheese sandwich",
-            "price": 1000,
+            "name": "Sándwich de jamón y queso",
+            "price": 70,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-            "type": "Breakfast",
+            "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -20,10 +20,10 @@
           "qty": 1,
           "product": {
             "id": 1,
-            "name": "American coffee",
-            "price": 500,
+            "name": "Café Americano",
+            "price": 40,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-            "type": "Beverages",
+            "type": "Bebidas",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -40,10 +40,10 @@
           "qty": 2,
           "product": {
             "id": 1,
-            "name": "American coffee",
-            "price": 500,
+            "name": "Café Americano",
+            "price": 40,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-            "type": "Beverages",
+            "type": "Bebidas",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -51,10 +51,10 @@
           "qty": 1,
           "product": {
             "id": 2,
-            "name": "Water 500ml",
-            "price": 500,
+            "name": "Agua 500ml",
+            "price": 20,
             "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-            "type": "Beverages",
+            "type": "Bebidas",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -67,162 +67,162 @@
   "products": [
     {
       "id": 1,
-      "name": "American coffee",
-      "price": 500,
+      "name": "Café Americano",
+      "price": 40,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Beverages",
+      "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 2,
-      "name": "Water 500ml",
-      "price": 500,
+      "name": "Agua 500ml",
+      "price": 20,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-      "type": "Beverages",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 3,
-      "name": "Chocolate milkshake",
-      "price": 500,
+      "name": "Malteada de chocolate",
+      "price": 35,
       "image": "https://media.istockphoto.com/id/1265193683/es/vector/vidrio-de-chocolate-milkshake-icono-vector.jpg?s=612x612&w=0&k=20&c=9pzt7avYRbgMUwPXgIrgFVirpM2j3ZjxCyA91TlWzdU=",
-      "type": "Beverages",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 4,
-      "name": "Vanilla milkshake",
-      "price": 500,
+      "name": "Malteada de vainilla",
+      "price": 35,
       "image": "https://icons.iconarchive.com/icons/iconarchive/fat-sugar-food/512/Milkshake-Vanilla-icon.png",
-      "type": "Beverages",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 5,
-      "name": "Milk",
-      "price": 500,
+      "name": "Leche",
+      "price": 30,
       "image": "https://cdn-icons-png.flaticon.com/512/112/112431.png",
-      "type": "Beverages",
+      "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 6,
-      "name": "Lemon soda",
-      "price": 500,
+      "name": "Soda de limón",
+      "price": 20,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/soda-lemon.png",
-      "type": "Beverages",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 7,
-      "name": "Blue soda",
-      "price": 500,
+      "name": "Refresco de limón",
+      "price": 40,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/soda-blue.png",
-      "type": "Beverages",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 8,
-      "name": "Oat meal",
-      "price": 500,
+      "name": "Helado de fresa",
+      "price": 40,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/oatmeal.png",
-      "type": "Beverages",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 9,
-      "name": "Ham and cheese sandwich",
-      "price": 1000,
+      "name": "Sándwich de jamón y queso",
+      "price": 70,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Breakfast",
+      "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 10,
-      "name": "Fried egg sandwich",
-      "price": 1000,
+      "name": "Sándwich de huevo frito",
+      "price": 80,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/fried-egg.png",
-      "type": "Breakfast",
+      "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 11,
-      "name": "Classic burger",
-      "price": 1000,
+      "name": "Hamburguesa clásica",
+      "price": 100,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Lunch",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 12,
-      "name": "Bacon burger",
-      "price": 1000,
+      "name": "Hamburguesa de bacon",
+      "price": 120,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/bacon-burger.png",
-      "type": "Lunch",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 13,
-      "name": "Cheese burger",
-      "price": 1000,
+      "name": "Hamburguesa de queso",
+      "price": 70,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/cheese-burger.png",
-      "type": "Lunch",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 14,
-      "name": "Double burger",
-      "price": 1000,
+      "name": "Hamburguesa doble",
+      "price": 150,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/double-burger.png",
-      "type": "Lunch",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 15,
-      "name": "Burger + soda + fries",
-      "price": 1000,
+      "name": "Hamburguesa + refresco + patatas fritas",
+      "price": 300,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/combo1.png",
       "type": "Combos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 16,
-      "name": "Burger + soda",
-      "price": 1000,
+      "name": "Hamburguesa + refresco",
+      "price": 150,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/combo2.png",
       "type": "Combos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 17,
-      "name": "Burger + soda + milkshake",
-      "price": 1000,
+      "name": "Hamburguesa + refresco + malteada",
+      "price": 250,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/combo3.png",
       "type": "Combos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 18,
-      "name": "Salad",
-      "price": 1000,
+      "name": "Ensalada",
+      "price": 120,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/salad.png",
-      "type": "Sides",
+      "type": "Entrada",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 19,
-      "name": "Fries",
-      "price": 1000,
+      "name": "Patatas fritas",
+      "price": 50,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/french-fries.png",
-      "type": "Sides",
+      "type": "Entrada",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 20,
-      "name": "Spicy fries",
-      "price": 1000,
+      "name": "Patatas fritas picantes",
+      "price": 70,
       "image": "https://static.vecteezy.com/system/resources/previews/011/294/514/non_2x/crazy-hot-flame-spicy-food-ramen-noodle-box-logo-icon-illustration-vector.jpg",
-      "type": "Sides",
+      "type": "Entrada",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
