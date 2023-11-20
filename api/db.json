@@ -85,7 +85,7 @@
       "id": 3,
       "name": "Chocolate milkshake",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/blob/main/resources/images/milk-shake-chocolate.png",
+      "image": "https://media.istockphoto.com/id/1265193683/es/vector/vidrio-de-chocolate-milkshake-icono-vector.jpg?s=612x612&w=0&k=20&c=9pzt7avYRbgMUwPXgIrgFVirpM2j3ZjxCyA91TlWzdU=",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -93,7 +93,7 @@
       "id": 4,
       "name": "Vanilla milkshake",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/blob/main/resources/images/milk-shake-vanilla.png",
+      "image": "https://icons.iconarchive.com/icons/iconarchive/fat-sugar-food/512/Milkshake-Vanilla-icon.png",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -101,7 +101,7 @@
       "id": 5,
       "name": "Milk",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/blob/main/resources/images/milk.png",
+      "image": "https://cdn-icons-png.flaticon.com/512/112/112431.png",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -221,7 +221,7 @@
       "id": 20,
       "name": "Spicy fries",
       "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/french-potatoes.png",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/294/514/non_2x/crazy-hot-flame-spicy-food-ramen-noodle-box-logo-icon-illustration-vector.jpg",
       "type": "Sides",
       "dateEntry": "2022-03-05 15:14:10"
     }
