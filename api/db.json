@@ -77,7 +77,7 @@
       "id": 2,
       "name": "Café con leche",
       "price": 7,
-      "image": "../resources/images/coffe-milk-removebg-preview.png",
+      "image": "https://github.com/MarFueGit/burger-queen-api-mock/tree/main/resources/images/coffe-milk-removebg-preview.png",
       "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -197,7 +197,7 @@
       "id": 20,
       "name": "Jugo de frutas natural",
       "price": 7,
-      "image": "../resources/images/jugospng.png",
+      "image": "https://github.com/MarFueGit/burger-queen-api-mock/tree/main/resources/images/jugospng.png",
       "type": "Desayunos",
       "dateEntry": "2022-03-05 15:14:10"
     }
