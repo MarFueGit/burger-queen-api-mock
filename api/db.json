@@ -206,7 +206,7 @@
       "name": "Ensalada",
       "price": 120,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/salad.png",
-      "type": "Entrada",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -214,7 +214,7 @@
       "name": "Patatas fritas",
       "price": 50,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/french-fries.png",
-      "type": "Entrada",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -222,7 +222,7 @@
       "name": "Patatas fritas picantes",
       "price": 70,
       "image": "https://static.vecteezy.com/system/resources/previews/011/294/514/non_2x/crazy-hot-flame-spicy-food-ramen-noodle-box-logo-icon-illustration-vector.jpg",
-      "type": "Entrada",
+      "type": "Comidas",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
