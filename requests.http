@@ -16,7 +16,7 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQ
 
 GET http://localhost:8080/orders HTTP/1.1
 content-type: application/json
-authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQHN5c3RlcnMueHl6IiwiaWF0IjoxNzAwNjY3OTQyLCJleHAiOjE3MDA2NzE1NDIsInN1YiI6IjEifQ.fBVpjNMdK6tl7KE_4ru5QAVOeV72GI7zOi7koeZ-880
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQHN5c3RlcnMueHl6IiwiaWF0IjoxNzAxMTE2MDMyLCJleHAiOjE3MDExMTk2MzIsInN1YiI6IjEifQ.6cwIGMzBzoZGLLhFawky02Iy68kSLiUd4IlqMsOa55g
 
 PATCH http://localhost:8080/orders/2 HTTP/1.1
 content-type: application/json
